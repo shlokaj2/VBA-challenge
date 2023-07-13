@@ -6,11 +6,11 @@ I will continue to work on it and resubmit it at a later time.
 Below are the screenshots of my results
 
 
-![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/ce13f475-bc45-4883-bcea-525db943503f)  - This is the 2018 sheet
+![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/ce13f475-bc45-4883-bcea-525db943503f)  
 
-![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/9a4ec331-ec1b-48b9-9a38-492d249200a9)  - This is the 2019 sheet
+![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/9a4ec331-ec1b-48b9-9a38-492d249200a9)  
 
-![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/ccf3bdeb-3757-438f-b590-f712ffb5e043)  This is the 2020 sheet
+![image](https://github.com/shlokaj2/VBA-challenge/assets/136186118/ccf3bdeb-3757-438f-b590-f712ffb5e043)  
 
 
 
